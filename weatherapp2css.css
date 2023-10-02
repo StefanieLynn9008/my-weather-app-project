@@ -80,3 +80,8 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+.githubLink {
+  font-size: small;
+  margin: 10px;
+}
